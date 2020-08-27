@@ -1,0 +1,22 @@
+{
+  "name": "voting",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "@rails/webpacker": "3.5",
+    "babel-loader": "7.4.3",
+    "bulma": "0.7.2",
+    "caniuse-lite": "^1.0.30000697",
+    "jquery": "^3.3.1",
+    "regenerator-runtime": "^0.13.2",
+    "webpack": "^3.0.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  },
+  "engines": {
+    "yarn": "^1.2.4"
+  }
+}
