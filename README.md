@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Alterando votacao no repo votacao2 - local gh_origin
