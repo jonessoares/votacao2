@@ -23,4 +23,8 @@ Things you may want to cover:
 
 * ...
 
+* Merge
 Alterando votacao no repo votacao2 - local gh_origin
+
+Alteracao votacao2 em branch develop - ***
+
